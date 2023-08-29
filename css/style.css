@@ -1,0 +1,24 @@
+nav {
+    font-size: 20px
+}
+
+/*Página Instituto */
+
+.secundaria {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+/*Página Aula Virtual*/
+.aula_virtual {
+    font-size: 14px;
+    color: black;
+    background-color: gainsboro;
+}
+
+/*Página Contacto*/
+form {
+    display: flex;
+    flex-direction: column;
+}
